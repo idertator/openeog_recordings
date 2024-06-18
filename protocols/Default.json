@@ -1,0 +1,34 @@
+{
+  "version": "1.0",
+  "name": "Default",
+  "created_at": "2021-05-03T15:43:47.534818",
+  "stimuli": [
+    {
+      "category": "saccadic",
+      "calibration": true,
+      "angle": 30,
+      "fixation_duration": 3.0,
+      "fixation_variability": 50.0,
+      "saccades_count": 5,
+      "orientation": "horizontal"
+    },
+    {
+      "category": "saccadic",
+      "calibration": false,
+      "angle": 30,
+      "fixation_duration": 3.0,
+      "fixation_variability": 50.0,
+      "saccades_count": 10,
+      "orientation": "horizontal"
+    },
+    {
+      "category": "saccadic",
+      "calibration": true,
+      "angle": 30,
+      "fixation_duration": 3.0,
+      "fixation_variability": 50.0,
+      "saccades_count": 5,
+      "orientation": "horizontal"
+    }
+  ]
+}

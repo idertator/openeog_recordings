@@ -1,0 +1,200 @@
+{
+    "version": "1.0",
+    "recorded_at": "2021-07-08T21:33:59.191362",
+    "recorder": {
+        "board": "cyton",
+        "sample_rate": 1000,
+        "channels": [
+            {
+                "index": 0,
+                "active": true,
+                "gain": 6,
+                "srb1": false,
+                "srb2": false
+            },
+            {
+                "index": 1,
+                "active": true,
+                "gain": 6,
+                "srb1": false,
+                "srb2": false
+            },
+            {
+                "index": 2,
+                "active": false,
+                "gain": 6,
+                "srb1": false,
+                "srb2": false
+            },
+            {
+                "index": 3,
+                "active": false,
+                "gain": 6,
+                "srb1": false,
+                "srb2": false
+            },
+            {
+                "index": 4,
+                "active": false,
+                "gain": 6,
+                "srb1": false,
+                "srb2": false
+            },
+            {
+                "index": 5,
+                "active": false,
+                "gain": 6,
+                "srb1": false,
+                "srb2": false
+            },
+            {
+                "index": 6,
+                "active": false,
+                "gain": 6,
+                "srb1": false,
+                "srb2": false
+            },
+            {
+                "index": 7,
+                "active": false,
+                "gain": 6,
+                "srb1": false,
+                "srb2": false
+            }
+        ]
+    },
+    "subject": {
+        "name": "Desconocido",
+        "gender": "female",
+        "status": "control",
+        "borndate": "1986-02-21"
+    },
+    "calibration": {},
+    "protocol_name": "Validation",
+    "tests": [
+        {
+            "stimulus": {
+                "category": "saccadic",
+                "calibration": true,
+                "angle": 30,
+                "fixation_duration": 3.0,
+                "fixation_variability": 50.0,
+                "saccades_count": 11,
+                "orientation": "horizontal"
+            },
+            "annotations": [],
+            "parameters": {},
+            "channels": {
+                "timestamps": "tests/00/timestamps.npz",
+                "time": "tests/00/time.npz",
+                "horizontal": "tests/00/horizontal.npz",
+                "vertical": "tests/00/vertical.npz",
+                "stimulus": "tests/00/stimulus.npz"
+            }
+        },
+        {
+            "stimulus": {
+                "category": "saccadic",
+                "calibration": false,
+                "angle": 10,
+                "fixation_duration": 3.0,
+                "fixation_variability": 50.0,
+                "saccades_count": 21,
+                "orientation": "horizontal"
+            },
+            "annotations": [],
+            "parameters": {},
+            "channels": {
+                "timestamps": "tests/01/timestamps.npz",
+                "time": "tests/01/time.npz",
+                "horizontal": "tests/01/horizontal.npz",
+                "vertical": "tests/01/vertical.npz",
+                "stimulus": "tests/01/stimulus.npz"
+            }
+        },
+        {
+            "stimulus": {
+                "category": "saccadic",
+                "calibration": false,
+                "angle": 20,
+                "fixation_duration": 3.0,
+                "fixation_variability": 50.0,
+                "saccades_count": 21,
+                "orientation": "horizontal"
+            },
+            "annotations": [],
+            "parameters": {},
+            "channels": {
+                "timestamps": "tests/02/timestamps.npz",
+                "time": "tests/02/time.npz",
+                "horizontal": "tests/02/horizontal.npz",
+                "vertical": "tests/02/vertical.npz",
+                "stimulus": "tests/02/stimulus.npz"
+            }
+        },
+        {
+            "stimulus": {
+                "category": "saccadic",
+                "calibration": false,
+                "angle": 30,
+                "fixation_duration": 3.0,
+                "fixation_variability": 50.0,
+                "saccades_count": 21,
+                "orientation": "horizontal"
+            },
+            "annotations": [],
+            "parameters": {},
+            "channels": {
+                "timestamps": "tests/03/timestamps.npz",
+                "time": "tests/03/time.npz",
+                "horizontal": "tests/03/horizontal.npz",
+                "vertical": "tests/03/vertical.npz",
+                "stimulus": "tests/03/stimulus.npz"
+            }
+        },
+        {
+            "stimulus": {
+                "category": "saccadic",
+                "calibration": false,
+                "angle": 60,
+                "fixation_duration": 3.0,
+                "fixation_variability": 50.0,
+                "saccades_count": 21,
+                "orientation": "horizontal"
+            },
+            "annotations": [],
+            "parameters": {},
+            "channels": {
+                "timestamps": "tests/04/timestamps.npz",
+                "time": "tests/04/time.npz",
+                "horizontal": "tests/04/horizontal.npz",
+                "vertical": "tests/04/vertical.npz",
+                "stimulus": "tests/04/stimulus.npz"
+            }
+        },
+        {
+            "stimulus": {
+                "category": "saccadic",
+                "calibration": true,
+                "angle": 30,
+                "fixation_duration": 3.0,
+                "fixation_variability": 50.0,
+                "saccades_count": 11,
+                "orientation": "horizontal"
+            },
+            "annotations": [],
+            "parameters": {},
+            "channels": {
+                "timestamps": "tests/05/timestamps.npz",
+                "time": "tests/05/time.npz",
+                "horizontal": "tests/05/horizontal.npz",
+                "vertical": "tests/05/vertical.npz",
+                "stimulus": "tests/05/stimulus.npz"
+            }
+        }
+    ],
+    "light_intensity": 324,
+    "parameters": {
+        "obci_filename": "00000B.EOG"
+    }
+}
