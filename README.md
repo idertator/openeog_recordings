@@ -4,4 +4,4 @@ Este repositorio contiene registros de movimientos oculares sacádicos realizado
 utilizando el OpenEOG. El OpenEOG es un equipo desarrollado por investigadores del departamento de 
 [Tecnología Electrónica](https://www.uma.es/departamento-de-tecnologia-electronica) 
 de la [Universidad de Málaga (UMA)](https://www.uma.es) y otros colaboradores externos 
-bajo el paraguas del proyecto DIATAX.
+bajo el paraguas del proyecto de Cooperación Universitaria 2020UC012 Financiado por la AACID.
